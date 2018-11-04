@@ -1,0 +1,10 @@
+[
+    {
+        "name": "run main",
+        "command": "./run_test.sh say: hello world"
+    },
+    {
+        "name": "list all file",
+        "command": "ls -a ."
+    }
+]
